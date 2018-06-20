@@ -1,0 +1,114 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 930MX (ID=0x134e)
+    Vendor:   NVIDIA
+    VRAM:     2020 MB
+    Driver:   21.21.13.6988
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\unityP\Subway Skater\game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\unityP\Subway Skater\game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\unityP\Subway Skater\game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\unityP\Subway Skater\game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\unityP\Subway Skater\game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\unityP\Subway Skater\game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\unityP\Subway Skater\game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\unityP\Subway Skater\game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\unityP\Subway Skater\game_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading D:\unityP\Subway Skater\game_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: D:\unityP\Subway Skater\game_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\unityP\Subway Skater\game_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\unityP\Subway Skater\game_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll (this message is harmless)
+Loading D:\unityP\Subway Skater\game_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll into Unity Child Domain
+Platform assembly: D:\unityP\Subway Skater\game_Data\Managed\TextMeshPro-2017.2-1.0.56-Runtime.dll (this message is harmless)
+Loading D:\unityP\Subway Skater\game_Data\Managed\TextMeshPro-2017.2-1.0.56-Runtime.dll into Unity Child Domain
+Platform assembly: D:\unityP\Subway Skater\game_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\unityP\Subway Skater\game_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.310 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Plane') is missing!
+ 
+(Filename:  Line: 1758)
+
+UnloadTime: 0.880485 ms
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 660)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 674)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GameManager.get_place () [0x00000] in <filename unknown>:0 
+  at GameManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.885488 ms
+
+Unloading 70 unused Assets to reduce memory usage. Loaded Objects now: 1367.
+Total: 1.020826 ms (FindLiveObjects: 0.083570 ms CreateObjectMapping: 0.039140 ms MarkObjects: 0.707702 ms  DeleteObjects: 0.190060 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 2cbc -> priority: 1 
+  Thread -> id: 33f8 -> priority: 1 
+  Thread -> id: 28fc -> priority: 1 
+  Thread -> id: 26c -> priority: 1 
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 481)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 481)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.329697 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 6021.
+Total: 3.049433 ms (FindLiveObjects: 0.374479 ms CreateObjectMapping: 0.110016 ms MarkObjects: 2.546953 ms  DeleteObjects: 0.015867 ms)
+
+OnObjSpawn netId: 1 has invalid asset Id
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnObjSpawn netId: 2 has invalid asset Id
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to send command for object without authority.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StartRuning
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StartRuning
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sliding
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StopSliding
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:7777} time {46311}, last rec time {44170} rtt {11} timeout {2000}
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+ClientDisconnected due to error: Timeout
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnloadTime: 2.426005 ms
+
+Unloading 172 unused Assets to reduce memory usage. Loaded Objects now: 1408.
+Total: 0.865322 ms (FindLiveObjects: 0.052892 ms CreateObjectMapping: 0.038435 ms MarkObjects: 0.677024 ms  DeleteObjects: 0.096617 ms)
+
